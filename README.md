@@ -7,4 +7,4 @@ Destre os principais ensinamentos vale ressaltar o clean code, usamos o laço fo
 Usamos também condicionais com operadores lógicos, além de usarmos eventos do teclado
 Com onkeydown e onkeyup adicionamos e removemos classes.
 
-![image](https://github.com/Dan-Dias/Alura-MIDI/assets/118864637/20765370-28a3-4ec3-a4a7-09385eaa997c)
+![image](https://github.com/Dan-Dias/Alura-Midi-Dan/assets/118864637/9c99d7df-713d-4ebb-9d81-68e5e98d28c0)
